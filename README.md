@@ -5,7 +5,7 @@ Greetings, I'm the enigmatic @derchrischkya, a name that probably doesn't ring a
 I'm on the lookout for captivating projects to lend my expertise to, all while I'm in the midst of a learning spree that spans the technological universe. Want to get in touch? Seek me out on GitHub or dispatch an electronic missive to christoph.richter1997@gmail.com. Let's make the digital realm a better and more amusing place, one witty line of code at a time!
 
 ### Languages and Tools:
-<div style="background:white">
+<div style="background:blue">
 <img src=".logo/python.png" height=50 style="margin-right: 1em;"/>
 <img src=".logo/aws.png" height=50 style="margin-right: 1em;"/>
 <img src=".logo/docker.png" height=50 style="margin-right: 1em;"/>
@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Actual Learnings:
-<div style="background:white">
+<div style="background:blue">
 <img src=".logo/terraform.png" height=50 style="margin-right: 1em">
 <img src=".logo/k8s.png" height=50 style="margin-right: 1em;"/>
 <img src=".logo/kafka.png" height=50 style="margin-right: 1em;"/>
