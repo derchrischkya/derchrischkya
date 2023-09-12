@@ -42,6 +42,10 @@ Let's collaborate on captivating projects and make the digital realm a better an
 </div>
 <br>
 
+## 💻 Weekly Workload
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📫 Contact Me
 <p align="center">
 <a href="https://linkedin.com/in/christoph-richter-aabb2015a" target="_blank">
