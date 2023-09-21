@@ -34,7 +34,7 @@ Let's collaborate on captivating projects and make the digital realm a better an
 ## 📊 GitHub Statistics
 <div style="background-color: white; padding: 10px; border-radius: 5px;">
   <p align="center" block="inline">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=derchrischkya&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=vision-friendly-dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=derchrischkya&theme=vision-friendly-dark"/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=derchrischkya&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages">
     </a>
