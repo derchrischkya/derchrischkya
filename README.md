@@ -46,11 +46,7 @@ Let's collaborate on captivating projects and make the digital realm a better an
 <!--START_SECTION:waka-->
 
 ```txt
-Ezhil          16 mins         ████████████░░░░░░░░░░░░░   48.27 %
-ActionScript   7 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
-Other          4 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
-Markdown       3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
-ERB            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
