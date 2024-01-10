@@ -46,9 +46,11 @@ Let's collaborate on captivating projects and make the digital realm a better an
 <!--START_SECTION:waka-->
 
 ```txt
-SSH Config   17 mins         ██████████████████░░░░░░░   71.72 %
-Other        4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.86 %
-Markdown     2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+Go           53 mins         █████████▒░░░░░░░░░░░░░░░   37.44 %
+YAML         30 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
+Other        22 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
+SSH Config   17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
+Markdown     17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
 ```
 
 <!--END_SECTION:waka-->
