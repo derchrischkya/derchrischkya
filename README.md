@@ -46,11 +46,11 @@ Let's collaborate on captivating projects and make the digital realm a better an
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         9 hrs 24 mins   █████████████░░░░░░░░░░░░   51.74 %
-Other        4 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   24.60 %
-Bash         2 hrs 36 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.39 %
-Markdown     1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-RPMSpec      23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+YAML         8 hrs 34 mins   ████████████▒░░░░░░░░░░░░   49.41 %
+Other        4 hrs 28 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
+Bash         2 hrs 36 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
+Markdown     1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+RPMSpec      23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
