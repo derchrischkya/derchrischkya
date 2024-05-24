@@ -46,11 +46,11 @@ Let's collaborate on captivating projects and make the digital realm a better an
 <!--START_SECTION:waka-->
 
 ```txt
-Go            4 hrs 41 mins   ████████▓░░░░░░░░░░░░░░░░   34.63 %
-Python        3 hrs 31 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.04 %
-Other         2 hrs 26 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
-Terraform     1 hr 42 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
-Makefile      34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Go            4 hrs 42 mins   ████████▓░░░░░░░░░░░░░░░░   34.21 %
+Python        4 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   29.65 %
+Other         1 hr 47 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
+Terraform     1 hr 42 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.40 %
+Bash          25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
 ```
 
 <!--END_SECTION:waka-->
