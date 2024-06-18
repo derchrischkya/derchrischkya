@@ -46,11 +46,11 @@ Let's collaborate on captivating projects and make the digital realm a better an
 <!--START_SECTION:waka-->
 
 ```txt
-Python       3 hrs 38 mins   ██████████░░░░░░░░░░░░░░░   40.27 %
-Makefile     3 hrs 20 mins   █████████▒░░░░░░░░░░░░░░░   36.99 %
-YAML         42 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-Bash         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-Markdown     18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Python       3 hrs 38 mins   ██████████▒░░░░░░░░░░░░░░   40.95 %
+Makefile     3 hrs 20 mins   █████████▒░░░░░░░░░░░░░░░   37.62 %
+Bash         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+YAML         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+Markdown     20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
 ```
 
 <!--END_SECTION:waka-->
