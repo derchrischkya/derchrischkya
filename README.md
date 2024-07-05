@@ -46,11 +46,11 @@ Let's collaborate on captivating projects and make the digital realm a better an
 <!--START_SECTION:waka-->
 
 ```txt
-YAML     1 hr 20 mins    ████████████▒░░░░░░░░░░░░   49.83 %
-Docker   40 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.10 %
-Other    33 mins         █████░░░░░░░░░░░░░░░░░░░░   20.46 %
-INI      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-Text     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+YAML         1 hr 20 mins    █████████░░░░░░░░░░░░░░░░   35.42 %
+Other        45 mins         █████░░░░░░░░░░░░░░░░░░░░   20.24 %
+Docker       40 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.84 %
+XML          26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+Makefile     9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
 ```
 
 <!--END_SECTION:waka-->
