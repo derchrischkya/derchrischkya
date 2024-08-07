@@ -46,11 +46,11 @@ Let's collaborate on captivating projects and make the digital realm a better an
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         1 hr 37 mins    ████████████░░░░░░░░░░░░░   47.41 %
-Python       43 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.28 %
-Terraform    40 mins         █████░░░░░░░░░░░░░░░░░░░░   19.63 %
-Markdown     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Other        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+JSON         3 hrs 4 mins    ████████████░░░░░░░░░░░░░   47.72 %
+Terraform    1 hr 43 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.72 %
+Python       58 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.09 %
+Markdown     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+YAML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
 ```
 
 <!--END_SECTION:waka-->
