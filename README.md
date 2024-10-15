@@ -46,11 +46,11 @@ Let's collaborate on captivating projects and make the digital realm a better an
 <!--START_SECTION:waka-->
 
 ```txt
-Python        5 hrs 34 mins   ████████▓░░░░░░░░░░░░░░░░   34.25 %
-YAML          3 hrs 43 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.90 %
-CSV           1 hr 56 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
-Bash          1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
-Other         1 hr 23 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+YAML          3 hrs 22 mins   ███████▒░░░░░░░░░░░░░░░░░   28.88 %
+Python        2 hrs 50 mins   ██████░░░░░░░░░░░░░░░░░░░   24.33 %
+CSV           1 hr 56 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.66 %
+Other         1 hr 17 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
+Docker        46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
 ```
 
 <!--END_SECTION:waka-->
